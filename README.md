@@ -2,6 +2,8 @@
 
 A buildpack for deploying [CppCMS](http://cppcms.com/) applications.
 
+See [this blog post](http://engineering.pivotal.io/post/making-a-useful-c++-buildpack/) for an explanation and full context on why this buildpack was created.
+
 
 ## conventions
 
