@@ -63,7 +63,7 @@ cf push appname -b https://github.com/cloudfoundry-community/cppcms-buildpack
 The cppcms libraries were compiled by
 [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder),
 specifically the code at
-[this experimental branch](https://github.com/cloudfoundry/binary-builder/tree/flavorjones-cppcms).
+[this experimental branch](https://github.com/flavorjones/binary-builder/tree/flavorjones-cppcms).
 
 
 ## TODO
