@@ -2,6 +2,8 @@
 
 A buildpack for deploying [CppCMS](http://cppcms.com/) applications.
 
+See [this blog post](http://engineering.pivotal.io/post/making-a-useful-c++-buildpack/) for an explanation and full context on why this buildpack was created.
+
 
 ## conventions
 
@@ -61,7 +63,7 @@ cf push appname -b https://github.com/cloudfoundry-community/cppcms-buildpack
 The cppcms libraries were compiled by
 [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder),
 specifically the code at
-[this experimental branch](https://github.com/cloudfoundry/binary-builder/tree/flavorjones-cppcms).
+[this experimental branch](https://github.com/flavorjones/binary-builder/tree/flavorjones-cppcms).
 
 
 ## TODO
